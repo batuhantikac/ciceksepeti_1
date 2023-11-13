@@ -1,0 +1,11 @@
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\bin\Debug\ciceksepeti_1.exe.config
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\bin\Debug\ciceksepeti_1.exe
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\bin\Debug\ciceksepeti_1.pdb
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\bin\Debug\Guna.UI2.dll
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\obj\Debug\ciceksepeti_1.csproj.AssemblyReference.cache
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\obj\Debug\ciceksepeti_1.Form1.resources
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\obj\Debug\ciceksepeti_1.Properties.Resources.resources
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\obj\Debug\ciceksepeti_1.csproj.GenerateResource.cache
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\obj\Debug\ciceksepeti_1.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\obj\Debug\ciceksepeti_1.exe
+C:\Users\batuh\source\repos\ciceksepeti_1\ciceksepeti_1\obj\Debug\ciceksepeti_1.pdb
